@@ -1,1 +1,1 @@
-# Automating AWS eith Python
+# Automating AWS with Python
